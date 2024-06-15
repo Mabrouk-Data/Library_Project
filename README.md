@@ -59,4 +59,8 @@ The data is provided by [SF Public Library](https://sfpl.org/) via the [San Fran
     * Data Type :Numeric	
     * Definition : Based on patron address: San Francisco Supervisor District.	
     * Note : This is an automated field, please note that if "Outside of County" is true, then there will be no supervisor district. Also, if the input address was not well-formed, the supervisor district will be blank.
+  
 Main Goal is to identify patterns in data to best enhance Library Total Checkouts
+
+* **Requirements** :	
+pandas ,numpy ,seaborn  ,plotly ,datasist ,matplotlib.pyplot ,streamlit , sklearn ,category_encoders
