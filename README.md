@@ -62,7 +62,12 @@ The data is provided by [SF Public Library](https://sfpl.org/) via the [San Fran
   
 Main Goal is to identify patterns in data to best enhance Library Total Checkouts
 
-Dealt with heavy outliers values by cappping and Missing Imputed Values using ffill
+**Challenges**
+
+Removed Duplicates
+Dealt with heavy outliers values by cappping 
+Dealt Missing Imputed Values using ffill
+
 
 * **Requirements** :	
 pandas ,numpy ,seaborn  ,plotly ,datasist ,matplotlib.pyplot ,streamlit , sklearn ,category_encoders
